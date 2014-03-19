@@ -34,6 +34,4 @@ Kütüphane Otomasyonumuza 3 farklı statü ile giriş yapabiliyoruz (Kütüphan
 
 NOT:Yeni güncelleme ile şifre değiştirme özelliği eklenmiştir.
 
-Ayrıca kişi bir kitap aldıktan sonra ikinci kitabı alabilmek için birinci kitabı iade etme zorunluluğu taşıyor. 
-
-Şifre değiştirebiliyor.
+Ayrıca kişi bir kitap aldıktan sonra ikinci kitabı alabilmek için birinci kitabı iade etme zorunluluğu taşıyor.
